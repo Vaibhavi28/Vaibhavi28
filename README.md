@@ -5,7 +5,7 @@
 **Master's Student · Cybersecurity & AI · Pennsylvania State University**
 
 [![BinExplain](https://img.shields.io/badge/🔍_BinExplain-Live_Tool-brightgreen?style=for-the-badge)](https://binexplain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vaibhavi-kathepuri-8126661ba/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-kathepuri-8126661ba/)
 [![Email](https://img.shields.io/badge/Email-kathepurivaibhavi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@binexplain.com)
 
 </div>
