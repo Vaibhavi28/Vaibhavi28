@@ -24,15 +24,11 @@ real past CTF solutions.
 **What makes it different:**
 - Parallel AI inference — Groq and Nemotron 3 Ultra run simultaneously,
   responses merged for speed + depth
-- RAG pipeline over 37+ real CTF writeups from CTFtime, Nightmare, and
-  ir0nstone
+- Auto-updating RAG pipeline — 160+ real CTF writeups indexed from CTFtime, Nightmare, ir0nstone, and CTF-Wiki, with live search running 24/7 to continuously grow the knowledge base
 - Cache Augmented Generation for instant responses on common patterns
 - Full feature parity between binary file and source code analysis
-- 228 automated tests including chaos and adversarial scenarios
+- 230 automated tests including chaos and adversarial scenarios
 - Zero binary execution — static analysis only, always
-
-**Research:** Preparing for ACM SIGCSE 2026 submission on AI-assisted
-scaffolding for binary exploitation education.
 
 ---
 
@@ -55,7 +51,7 @@ Free AI binary analysis for CTF beginners
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhavi28&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://YOUR-CUSTOM-VERCEL-DOMAIN.vercel.app/api?username=Vaibhavi28&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
