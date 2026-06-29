@@ -49,9 +49,10 @@ Free AI binary analysis for CTF beginners
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streaks
 
-![GitHub Stats](https://YOUR-CUSTOM-VERCEL-DOMAIN.vercel.app/api?username=Vaibhavi28&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhavi28&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
